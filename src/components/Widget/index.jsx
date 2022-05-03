@@ -1,12 +1,12 @@
 import React from "react";
 
-// import { Container } from "./styles";
+import { Container } from "./styles";
 
 function Widget() {
   return (
-    <div>
+    <Container>
       <h1>Hello World</h1>
-    </div>
+    </Container>
   );
 }
 
