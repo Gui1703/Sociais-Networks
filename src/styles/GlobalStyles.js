@@ -8,5 +8,6 @@ export default createGlobalStyle`
     text-decoration: none;
     background-color: #303135;
     user-select: none;
+    font-family: 'Roboto Slab', serif;
 }
 `;
